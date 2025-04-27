@@ -1,5 +1,4 @@
 // Created by Kilian
-// C++ Übung 02 | Aufgabe 3
 // Module mit ECTS Punkten, Noten berechnen und ausgeben!
 
 
